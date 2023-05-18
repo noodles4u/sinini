@@ -4,9 +4,9 @@ Gem::Specification.new do |spec|
   spec.name          = "sinini"
   spec.version       = "0.1.0"
   spec.authors       = ["noodles4u"]
-  spec.email         = ["louisdesmett@gmail.com"]
+  spec.email         = [""]
 
-  spec.summary       = "TODO: Write a short summary, because Rubygems requires one."
+  spec.summary       = ""
   spec.homepage      = "TODO: Put your gem's website or public repo URL here."
   spec.license       = "MIT"
 
