@@ -2,3 +2,5 @@
   link: /
 - name: About
   link: /about.html
+- name: Archive
+  link: /archive.html
